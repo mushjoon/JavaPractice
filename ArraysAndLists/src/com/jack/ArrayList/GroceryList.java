@@ -1,4 +1,4 @@
-package com.jack;
+package com.jack.ArrayList;
 
 import java.util.ArrayList;
 

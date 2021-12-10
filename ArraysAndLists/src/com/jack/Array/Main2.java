@@ -1,4 +1,4 @@
-package com.jack;
+package com.jack.Array;
 
 import java.util.Scanner;
 

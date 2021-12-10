@@ -1,4 +1,4 @@
-package com.jack;
+package com.jack.Array;
 
 public class Main {
 
