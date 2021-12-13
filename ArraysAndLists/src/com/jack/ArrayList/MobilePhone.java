@@ -50,6 +50,7 @@ public class MobilePhone {
     }
 
     private int findContact(Contact contact) {
+
         return this.myContacts.indexOf(contact);
     }
 
