@@ -15,7 +15,7 @@ public class Main {
         hawthorn.matchResult(adelaideCrows,3,8);
 
         adelaideCrows.matchResult(fremantle,2,1);
-        
+
         footballLeague.addTeam(adelaideCrows);
         footballLeague.addTeam(melbourne);
         footballLeague.addTeam(hawthorn);
